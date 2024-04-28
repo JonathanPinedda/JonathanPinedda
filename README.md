@@ -1,4 +1,4 @@
-![Hi!](https://github.com/JonathanPinedda/JonathanPinedda/assets/104803297/d57e64a1-cb0d-410b-bff2-4484475bd5ff)
+![PresentationImage!](https://github.com/JonathanPinedda/JonathanPinedda/assets/104803297/b93a1966-df09-4165-95a9-c96a4b0f8e3d)
 
 <!--
 **JonathanPinedda/JonathanPinedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
