@@ -1,8 +1,5 @@
-### Hi there 👋
-
 ![Hi!](https://github.com/JonathanPinedda/JonathanPinedda/assets/104803297/d57e64a1-cb0d-410b-bff2-4484475bd5ff)
-'''java
-'''
+
 <!--
 **JonathanPinedda/JonathanPinedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
